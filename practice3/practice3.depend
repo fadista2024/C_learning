@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1715496243 source:d:\codeblocks\practice3\main.c
+	<stdio.h>
+	"util.h"
+
+1715434769 d:\codeblocks\practice3\util.h
+

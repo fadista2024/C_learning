@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714404170 source:d:\code blocks code\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1714830288 source:d:\codeblocks\practice\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<math.h>
+	"stdio.h"
+	"math.h"
+
