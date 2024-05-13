@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1714227096 source:d:\code blocks code\oj_test_4_24\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

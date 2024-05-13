@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1714403785 source:d:\code blocks code\oj_1.3编程基础之算术表达式与顺序执行\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1714595096 source:d:\codeblocks\oj_1.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

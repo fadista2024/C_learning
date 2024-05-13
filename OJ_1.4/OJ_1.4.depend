@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1714673721 source:d:\code blocks code\oj_1.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1714744701 source:d:\codeblocks\oj_1.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
